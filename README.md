@@ -8,9 +8,6 @@ Then, use one of these examples in your code.
 const Database = require("r6nted.db");
 const db = new Database("database.json");
 ```
-
-or ..
-
 ```ts
 import * as Database from "r6nted.db";
 const db = new Database("database.json");
