@@ -1,5 +1,5 @@
 {
-  "name": "r6nted.db",
+  "name": "db",
   "version": "1.0.3",
   "description": "JSON Database used for my projects",
   "main": "index.js",
