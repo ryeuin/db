@@ -1,6 +1,6 @@
 {
-  "name": "db",
-  "version": "1.0.3",
+  "name": "r6nted.db",
+  "version": "1.0.5",
   "description": "JSON Database used for my projects",
   "main": "index.js",
   "repository": "https://github.com/r6nted/db",
