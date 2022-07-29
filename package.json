@@ -6,8 +6,5 @@
   "repository": "https://github.com/r6nted/db",
   "author": "r6nted",
   "type": "commonjs",
-  "license": "MIT",
-  "dependencies": {
-    "r6nted.db": "^1.0.2"
-  }
+  "license": "MIT"
 }
