@@ -1,0 +1,13 @@
+{
+  "name": "r6nted.db",
+  "version": "1.0.3",
+  "description": "JSON Database used for my projects",
+  "main": "index.js",
+  "repository": "https://github.com/r6nted/db",
+  "author": "r6nted",
+  "type": "commonjs",
+  "license": "MIT",
+  "dependencies": {
+    "r6nted.db": "^1.0.2"
+  }
+}
